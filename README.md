@@ -112,7 +112,7 @@ Even though Online travel agent has more revenue, they still have more canceled 
 
 ### Final Dashboard
 
-
+![Screenshot (24)](https://github.com/Jawah1/Splendor-Hotel-Groups-SHG-/assets/131864852/287b5cc4-508c-46e1-86fa-13b74bd317cc)
 
 
 
