@@ -49,7 +49,7 @@ I then used the card visualization to get
 The next thing I did was to use visualization to address some of the objectives.
 First, I visualize the booking trend by month, average daily Rate by Distribution Channel, Cancelled by Customer Type, Countries with highest Revenue, Revenue by Distribution Channel.
 
-Below is the final dashboard .Applied filters to be to drill down on each visualize on the dashboard.
+Below is the dashboard Applied filters to drill down on each visualization on the dashboard.
 
 ![image](https://github.com/Jawah1/Splendor-Hotel-Groups-SHG-/assets/131864852/994a852e-ed56-44e7-80b4-574a75c37b15)
 
@@ -57,7 +57,7 @@ Below is the final dashboard .Applied filters to be to drill down on each visual
 
 # Addressing Objectives and Recommendations
 
-Booking Patterns:
+# Booking Patterns:
 
 •	What is the trend in booking patterns over time, and are there specific seasons or months with increased booking activity?
 
@@ -90,7 +90,7 @@ Answer and Recommendation
 
 There is a total of 44,000 canceled bookings against 75000 successful ones. The canceled booking is half that of the successful ones. This is not good at all. I recommend that the business request all guests to pay at least 45% of the room rate at the point of booking this will bring down the rate of canceled bookings.
 
-Revenue Optimization:
+# Revenue Optimization:
 
 •	What is the overall revenue trend, and are there specific customer segments or countries contributing significantly to revenue?
 
