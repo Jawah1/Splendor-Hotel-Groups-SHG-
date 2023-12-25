@@ -55,9 +55,9 @@ Below is the dashboard Applied filters to drill down on each visualization on th
 
  
 
-# Addressing Objectives and Recommendations
+### Addressing Objectives and Recommendations
 
-# Booking Patterns:
+### Booking Patterns:
 
 •	What is the trend in booking patterns over time, and are there specific seasons or months with increased booking activity?
 
@@ -71,7 +71,7 @@ The first quarter has the highest number of bookings with January being the peak
 ![image](https://github.com/Jawah1/Splendor-Hotel-Groups-SHG-/assets/131864852/0db1c5ac-6f52-4737-849e-1db9a68377bd)
 
  
-# Customer Behavior Analysis:
+### Customer Behavior Analysis:
 •	Which distribution channels contribute the most to bookings, and how does the average daily rate (ADR) differ across these channels?
 
 •	Can we identify any patterns in the distribution of guests based on their country of origin, and how does this impact revenue?
@@ -81,7 +81,7 @@ Answer and Recommendation
 The distribution channel with the most bookings is the Online Travel Agent, it also has the highest average daily rate. As suggested earlier, the business should improve its relationship with online travel agents and, if possible and offer them incentives on bookings. The country with the most bookings and revenue is Portugal. Portugal. The least-performing country is Madagascar.
 
 
-# Cancellation Analysis:
+### Cancellation Analysis:
 •	What factors are most strongly correlated with cancellations, and can we predict potential cancellations based on certain variables?
 
 •	How does the revenue loss from cancellations compare across different customer segments and distribution channels?
@@ -90,7 +90,7 @@ Answer and Recommendation
 
 There is a total of 44,000 canceled bookings against 75000 successful ones. The canceled booking is half that of the successful ones. This is not good at all. I recommend that the business request all guests to pay at least 45% of the room rate at the point of booking this will bring down the rate of canceled bookings.
 
-# Revenue Optimization:
+### Revenue Optimization:
 
 •	What is the overall revenue trend, and are there specific customer segments or countries contributing significantly to revenue?
 
@@ -100,7 +100,7 @@ Answer and Recommendation
 Portugal, the UK, France, Spain, and Germany contribute the highest revenue, this revenue is coming from transit customers. SHGs should target mostly transient customers in these countries.
 
 
-# Comparison of Online and Offline Travel Agents:
+### Comparison of Online and Offline Travel Agents:
 •	What is the revenue contribution of online travel agents compared to offline travel agents?
 
 •	How do cancellation rates and revenue vary between bookings made through online and offline travel agents?
@@ -110,7 +110,7 @@ Answer and Recommendation
 Online travel agent brings in more revenue (17M) compared to offline travel agent that brings in just 7M.
 Even though Online travel agent has more revenue, they still have more canceled bookings should strengthen their relationship with online travel agents and implement the 45% deposit on booking, which will close the gap in canceled bookings and revenue loss.
 
-# Final Dashboard
+### Final Dashboard
 
 
 
